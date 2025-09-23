@@ -1,10 +1,10 @@
 var names = [];
-names.push("mukesh", "vishal", "labana"); // works fine
+names.push("mukesh", "vishal", "labana"); 
 console.log(names);
 var str = ["Dylan"];
 // str.push("vishal"); 
 console.log(str);
-var numbers = [1, 2, 3]; // inferred to type number[]
+var numbers = [1, 2, 3];
 numbers.push(4);
-var head = numbers[3]; // no error
+var head = numbers[3]; 
 console.log(head);

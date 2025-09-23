@@ -1,0 +1,12 @@
+var ourTuple;
+ourTuple = [5, false, "Coding God was here"];
+ourTuple.push("Something new and wrong");
+console.log(ourTuple);
+var ourReadonlyTuple = [5, true, 'The Real Coding God'];
+// ourReadonlyTuple.push('Coding God took a day off');
+console.log(ourReadonlyTuple);
+var graph = [55.2, 41.3];
+console.log(graph);
+var graph1 = [5685.2, 4156.3];
+var x = graph1[0], y = graph1[1];
+console.log(graph1);
